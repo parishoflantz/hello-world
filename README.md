@@ -1,2 +1,3 @@
 # hello-world
 Learning something new...
+It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to the **MarkDown Guide**!](https://guides.github.com/features/mastering-markdown/)
